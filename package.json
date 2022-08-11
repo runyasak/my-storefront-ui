@@ -10,6 +10,7 @@
     "type-check": "vue-tsc --noEmit -p tsconfig.vitest.json --composite false",
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore"
   },
+  "license": "MIT",
   "dependencies": {
     "pinia": "^2.0.17",
     "vue": "^3.2.37",
